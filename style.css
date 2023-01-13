@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.split{
+    margin-top: 180px;
+}
+
+.left {
+
+    position: fixed;
+    float: left;
+    width: 50%;
+}
+
+.right {
+
+    position: relative;
+    float: right;
+    width: 50%;
+}
+
+/* .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+} */
+
+
+/* you again? ok ok, here is your second flag part 
+3Yh3y_Su
+.
+.
+.
+.
+.
+.
+looking for 3rd part? why r you still here? connect the server! tel the net! tel the net! */
